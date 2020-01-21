@@ -1,0 +1,5 @@
+D:\tasks\BankApplication\BankApplication\bin\Debug\BankApplication.dll
+D:\tasks\BankApplication\BankApplication\bin\Debug\BankApplication.pdb
+D:\tasks\BankApplication\BankApplication\obj\Debug\BankApplication.csproj.CoreCompileInputs.cache
+D:\tasks\BankApplication\BankApplication\obj\Debug\BankApplication.dll
+D:\tasks\BankApplication\BankApplication\obj\Debug\BankApplication.pdb

@@ -1,0 +1,1 @@
+D:\tasks\BankApplication\BankApplication.Services\obj\Debug\BankApplication.Services.csproj.CoreCompileInputs.cache

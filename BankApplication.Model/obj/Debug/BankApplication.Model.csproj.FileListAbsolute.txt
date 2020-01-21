@@ -1,0 +1,2 @@
+D:\tasks\BankApplication\BankApplication.Model\obj\Debug\BankApplication.Model.csprojAssemblyReference.cache
+D:\tasks\BankApplication\BankApplication.Model\obj\Debug\BankApplication.Model.csproj.CoreCompileInputs.cache
